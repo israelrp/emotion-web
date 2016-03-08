@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'AUdimat-Bold';
+  src: url('AUdimat-Bold.eot?#iefix') format('embedded-opentype'),  url('AUdimat-Bold.otf')  format('opentype'),
+	     url('AUdimat-Bold.woff') format('woff'), url('AUdimat-Bold.ttf')  format('truetype'), url('AUdimat-Bold.svg#AUdimat-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
