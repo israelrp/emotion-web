@@ -38,5 +38,77 @@ header{
 }
 
 .navbar-nav>li:last-child>a {
-  border-right: 16px solid;
+  border-right: 16px solid #404041;
+}
+
+.navbar-nav>li>a#btnBuscar{
+  border-right: none;
+  background-color: #4EA68F;
+  padding-top: 19px;
+  padding-bottom: 19px;
+}
+
+.img-full{
+  width:100%;
+  height: auto;
+}
+
+.texto-slider{
+  color:#404041 !important;
+  font-family: 'AUdimat-Bold' !important;
+}
+
+.nombre-e h2{
+  font-family: 'AUdimat-Bold';
+  font-size:60px;
+}
+
+.nombre-e h4{
+  font-family: 'AUdimat-Regular';
+  font-size:27px;
+}
+
+.oferta h2{
+  font-family: 'AUdimat-Bold';
+  font-size: 30px;
+  color:#231F20;
+  margin-top: 15px;
+}
+
+.oferta p{
+  width: 80%;
+  margin:0px auto;
+  text-align: left;
+  padding-top: 20px;
+  font-family: 'AUdimat-Regular';
+  font-size: 18px;
+  color:#404041;
+}
+
+video#bgvid {
+    width: 100%;
+    height: auto;
+}
+
+.nombre-e-small h2{
+  font-family: 'AUdimat-Bold';
+  font-size:40px;
+}
+
+.nombre-e-small h4{
+  font-family: 'AUdimat-Regular';
+  font-size:18px;
+}
+
+footer{
+  color:#6D6E70 !important;
+  font-family: 'AUdimat-Bold';
+  font-size:20px;
+}
+
+footer h4{
+  font-family: 'AUdimat-Bold';
+  font-size:30px;
+  color:#58595B !important;
+  padding-bottom: 40px;
 }
